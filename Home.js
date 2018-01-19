@@ -142,7 +142,7 @@ export default class Home extends Component {
     return (
       <View style = { [ styles.fill, { backgroundColor: 'white' } ] } >
         <StatusBar
-          backgroundColor='rgba(0, 0, 0, 0.2)'
+          backgroundColor='rgba(0, 0, 0, 0.3)'
           barStyle = "dark-content"
           translucent
         />
