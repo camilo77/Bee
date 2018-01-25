@@ -96,7 +96,7 @@ export default class Home extends Component {
           image = { require('./images/headerCard1.png') }
           style = { { width: WINDOW.width * 0.8, height: WINDOW.width * 0.8, marginBottom: 40, } }
           title = 'LavaAliados'
-          paragraph = 'Encuentra todos los lugares para cuidar la estética de tu máquinaaaa'
+          paragraph = 'Encuentra todos los lugares para cuidar la estética de tu máquina'
           onPress = { () => navigate('Mapa') }
         />
         <View style = { styles.section2 } >
